@@ -42,8 +42,15 @@
 
 ###
 
+<style>
+  .linknya {
+    text-decoration: none;
+  }
+</style>
+
 <br clear="both">
 
+<a class="linknya" href="https://google.com" target="_blank">Cek</a>
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
