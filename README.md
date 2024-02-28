@@ -23,6 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/600px-Lua-Logo.svg.png" height="30" alt="Lua Logo"  />
+  <img width="12" />
+  <img src="https://www.php.net//images/logos/new-php-logo.svg" height="30" alt="PHP Logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353579/codeigniter.svg" height="30" alt="Codeigniter Logo" />
 </div>
 
 ###
