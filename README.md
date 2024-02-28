@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! AKu Rozir Wobari</h2>
+<h2 align="left">Hi 👋! Aku Rozir Wobari</h2>
 
 ###
 
